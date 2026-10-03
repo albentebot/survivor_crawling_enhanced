@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+    addonSteamAppID "550"
+    addontitle "Survivor Crawling Enhanced"
+    addonversion "1"
+    addonauthor "Teamimu"
+    addonauthorSteamID "LEAVE THIS BLANK"
+    addonDescription "Allows survivors to crawl while downed if you host a local or listen server. Speed of crawl is 999"
+}
